@@ -2,7 +2,7 @@ package gform
 
 import (
 	"errors"
-	"github.com/AllenDang/w32"
+	"github.com/Kethsar/w32"
 	"unsafe"
 )
 

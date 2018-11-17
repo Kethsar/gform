@@ -1,7 +1,7 @@
 package gform
 
 import (
-	"github.com/AllenDang/w32"
+	"github.com/Kethsar/w32"
 )
 
 func init() {

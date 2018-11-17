@@ -1,3 +1,5 @@
+This fork just switches to using the fixed w32 repo I also forked. This will likely be deleted once the original w32 repo is fixed.
+
 # gform is an easy to use Windows GUI toolkit for Go
 It provides two approaches to create UI.
 

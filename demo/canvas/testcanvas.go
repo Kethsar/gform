@@ -2,8 +2,8 @@ package main
 
 import (
 	"syscall"
-	"github.com/AllenDang/gform"
-	"github.com/AllenDang/w32"
+	"github.com/Kethsar/gform"
+	"github.com/Kethsar/w32"
 )
 
 const IDR_PNG1 = 100
